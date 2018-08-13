@@ -1,3 +1,3 @@
 # Mathematical Sequences - Java
 
-### Fibonacci
+* Fibonacci
