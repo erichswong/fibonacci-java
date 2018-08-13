@@ -1,2 +1,3 @@
-# fibonacci-java
-fibonacci in java
+# Mathematical Sequences - Java
+
+## Fibonacci
